@@ -1,0 +1,13 @@
+##Pseudo code
+
+Calculate a running sum
+
+Asks a user to enter the numbers and to enter negative number to terminate
+
+The program will add the numbers
+
+It continuous to add the numbers WHILE the inserted number is > 0
+
+IF negative number encountered the program will stop adding
+
+It will generate the result

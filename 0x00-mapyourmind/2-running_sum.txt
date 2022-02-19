@@ -1,0 +1,16 @@
+## Pseudo code
+
+calculate the sum of squares of given input of numbers
+
+Asks a user to insert the first number, num1
+
+MULTIPLY the first number by itself num1*num1
+
+Asks a user to insert the second number, num2
+
+MULTIPLY the second number by itself, num2*num2
+
+SUM the(numbers) squares
+
+Generate the result(sum)s
+

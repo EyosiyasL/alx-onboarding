@@ -1,0 +1,18 @@
+##Pseudo code
+
+Reads in three numbers and writes them all in sorted order
+
+Ask to enter the  three numbers int a,b,c
+
+IF a>b, a initialized to Max and b to SecMax
+
+ELSE a=SecMax, b=Max
+
+And IF c>Max, low=SecMax , SecMax=max , Max=c
+
+ELSE IF C>SecMax, low=SecMax, SecMax=c
+
+ELSE low=c
+
+Generate the sorted order as a result
+
